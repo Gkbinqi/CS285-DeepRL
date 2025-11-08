@@ -1,20 +1,7 @@
 # UCB-CS285
-在校内课程"神经网络与深度学习"接触了RL, 通过复现BCQ算法初步了解了RL, 复现了基本的Q学习和Actor-Critic框架, 比较感兴趣, 故计划通过一门专项课程系统了解学习
+
 * Main page: https://rail.eecs.berkeley.edu/deeprlcourse/
-* Lectures(2023Fall): https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps
+* Lectures(26sp): on going
 ***
-### 时间线
+##### Progress & Details
 
-2025.9.28
-Start
-
-2025.10.5
-沉迷游泳... 国庆后开始
-
-2025.10.9
-Lec 01 Intro
-
-2025.10.13
-Lec 02
-
-2025.10.16
