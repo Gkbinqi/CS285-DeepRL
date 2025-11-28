@@ -7,4 +7,4 @@ UCB-CS285: Deep Reinforcement Learning
 ***
 ##### Progress & Details
 
-准备跟26sp 等待过程中正看西湖大学
+准备跟26sp
